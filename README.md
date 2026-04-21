@@ -111,7 +111,3 @@ pytest tests/ -v
 - `ratings.csv`: 用户评分数据
 - `movies.csv`: 电影信息与标签
 - `tags.csv`: 用户标签数据
-
-## 📄 许可证
-
-MIT License
